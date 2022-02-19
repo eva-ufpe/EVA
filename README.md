@@ -28,6 +28,8 @@ yarn create next-app --example with-styled-components with-styled-components-app
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
 
+
+To run the app, just "yarn dev" in terminal
 ### Try it on CodeSandbox
 
 [Open this example on CodeSandbox](https://codesandbox.io/s/github/vercel/next.js/tree/canary/examples/with-styled-components)
